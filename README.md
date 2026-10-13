@@ -1,14 +1,14 @@
 # WaitExchange
 This is project of mine, where you can see real-time (live) converter where you can switch this currencies: USD, BAM, EUR, RUB, AED, USDT, GRAM , STARS, JPY, GPB, CAD, AUD, CNY, INR, KZTM SGD, BRL, NOK , SEK, PLN, MXN, SAR, KZT, TRY, AZN and others will be soon (:
 
-## ✨ FeaturesLive Exchange Rates:
+## ✨ Features Live Exchange Rates:
 
 
 Automatically fetches up-to-date fiat exchange rates via public APIs (open.er-api.com).Cryptocurrency Support: 
 
 Integrates live pricing for popular assets like Bitcoin (BTC) and Tether (USDT) using the CoinGecko API.Custom Pegged Assets: Includes support for custom digital assets or tokens (e.g., Telegram Stars, Gram Token).
 
-## 🚀 UsageRun the script from your terminal:python currency_converter.py
+## 🚀 Usage Run the script from your terminal:python currency_converter.py
 
 (Note: Replace currency_converter.py with whatever filename you saved the script under.)
 
